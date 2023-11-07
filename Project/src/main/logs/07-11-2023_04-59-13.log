@@ -1,0 +1,4 @@
+Nov 07, 2023 4:59:18 AM testcases.Testcase1 TestTodaysDeal
+INFO: Browser launched
+Nov 07, 2023 4:59:31 AM testcases.Testcase1 afterMethod
+INFO: Browser closed
